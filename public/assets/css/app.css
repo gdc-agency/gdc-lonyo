@@ -3668,7 +3668,7 @@ a.light-color {
   height: 50px;
   background-color: var(--light-color);
 }
-.lonyo-counter-item::before:last-child {
+.lonyo-counter-item:last-child::before {
   width: 0;
 }
 @media (max-width: 1199px) {
