@@ -1,0 +1,17 @@
+
+@import "bootstrap/dist/css/bootstrap.css";
+@import "react-modal-video/css/modal-video.css";  
+
+ /* import slick css files */
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+
+
+
+@import "../../public/assets/css/fontawesome.css";
+@import "../../public/assets/css/remixicon.css";
+@import "../../public/assets/css/animate.css";
+@import "../../public/assets/css/app.css";
+@import "../../public/assets/css/app.min.css";
+@import "../../public/assets/css/main.css";
